@@ -70,9 +70,6 @@ The backend code is hosted in a separate GitHub repository. You can access it at
 
 The frontend code is hosted in a separate GitHub repository. You can access it at [https://github.com/garrettomi/solo-mvp-frontend](https://github.com/garrettomi/solo-mvp-frontend).
 
-## Contributing
-
-Please refer to the [Contributing](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
 
 ## License
 
