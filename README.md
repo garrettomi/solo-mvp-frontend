@@ -59,8 +59,5 @@ Backend: Deployed on Heroku. Access the API at https://solo-mvp-backend.herokuap
 Backend Repository
 The backend code is hosted in a separate GitHub repository. You can access it at https://github.com/garrettomi/solo-mvp-backend.
 
-**Contributing**
-Thank you for your interest in contributing to Typemon! If you would like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
 **License**
 Disclaimer: The Pokemon Typing Game is not an official Pokemon game and was created solely for recreational personal purposes without any intention of monetary gain. This project is a fan-made application developed by garrettomi. Pokemon and all related trademarks belong to The Pokemon Company, Nintendo, and Game Freak.
