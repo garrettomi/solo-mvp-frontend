@@ -14,7 +14,6 @@ Access the deployed application at [https://solo-mvp-frontend.vercel.app/login](
 - [Deployment](#deployment)
 - [Backend Repository](#backend-repository)
 - [Frontend Repository](#frontend-repository)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
